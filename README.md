@@ -1,4 +1,4 @@
-# Advent of Code Ruby Starter
+# Advent of Code Ruby Starter (Not functional yet. Still a work in progress.)
 ## Fetching a problem
 
 ```bash
