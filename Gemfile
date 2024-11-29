@@ -9,6 +9,7 @@ gem 'sorbet-runtime'
 gem 'zeitwerk', '~> 2.6'
 
 group :development do
+  gem 'dotenv', '~> 3.1.4'
   gem 'sorbet', '~> 0.5'
 end
 
